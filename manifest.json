@@ -2,7 +2,7 @@
   "name": "Sistema de Seguimiento y Monitoreo - SAR Corani",
   "short_name": "SAR Corani",
   "description": "Dashboard de Participantes, Casos y Metas del Servicio de Atención Rural - SAR Corani",
-  "start_url": "./sistema_sar_corani.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
