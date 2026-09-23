@@ -1,7 +1,7 @@
 // Service worker mínimo: permite instalar la app y deja el dashboard
 // disponible (última versión cargada) aunque no haya señal al abrirlo.
 const CACHE_NAME = 'sar-corani-v1';
-const ARCHIVOS_APP = ['./sistema_sar_corani.html', './manifest.json', './icon-192.png', './icon-512.png'];
+const ARCHIVOS_APP = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (evento) => {
   evento.waitUntil(
