@@ -1,0 +1,15 @@
+{
+  "name": "Sistema de Seguimiento y Monitoreo - SAR Corani",
+  "short_name": "SAR Corani",
+  "description": "Dashboard de Participantes, Casos y Metas del Servicio de Atención Rural - SAR Corani",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a1230",
+  "theme_color": "#0a1230",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
